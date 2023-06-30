@@ -1,0 +1,11 @@
+---
+title: "Card Example"
+filters:
+  - card
+---
+
+## Heading
+
+This filter adds formatting to heading text.
+
+
